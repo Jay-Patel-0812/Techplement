@@ -1,0 +1,1 @@
+The live website(for the week1 task) has been hosted on https://quotes-frontend-chi.vercel.app . It may take a while for the backend to load cause I am using free hosting service.
