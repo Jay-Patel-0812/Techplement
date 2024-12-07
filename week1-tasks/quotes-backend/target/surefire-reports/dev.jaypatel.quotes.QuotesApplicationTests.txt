@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: dev.jaypatel.quotes.QuotesApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.801 s -- in dev.jaypatel.quotes.QuotesApplicationTests
